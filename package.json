@@ -1,0 +1,4 @@
+// package.json এ
+"scripts": {
+  "start": "node index.js"
+}

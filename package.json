@@ -1,4 +1,14 @@
-// package.json এ
-"scripts": {
-  "start": "node index.js"
+{
+  "name": "gimini-api",
+  "version": "1.0.0",
+  "description": "Remini style 4k image enhancer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "express": "^4.18.2",
+    "sharp": "^0.32.0"
+  }
 }
